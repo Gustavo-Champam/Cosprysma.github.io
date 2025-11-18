@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "tipo": "venda",
+    "titulo": "Armadura completa estilo RPG tamanho M",
+    "descricao": "Feita em EVA denso com pintura metálica. Vai com elmos e ombreiras. Usada duas vezes em evento indoor.",
+    "preco": "R$ 450",
+    "cidade": "São Paulo (SP)",
+    "contato": "@forja.cosplay",
+    "data": "2025-03-08",
+    "imagem": "https://source.unsplash.com/900x650/?cosplay,armor",
+    "tags": ["armadura", "eva", "rpg"]
+  },
+  {
+    "id": 2,
+    "tipo": "troca",
+    "titulo": "Peruca longa rosa bebê",
+    "descricao": "Peruca sintética resistente a calor, 80cm. Quero trocar por peruca loira curta ou média.",
+    "preco": "Troca",
+    "cidade": "Curitiba (PR)",
+    "contato": "@mimi.wig",
+    "data": "2025-03-10",
+    "imagem": "https://source.unsplash.com/900x650/?cosplay,wig",
+    "tags": ["peruca", "wig", "troca"]
+  },
+  {
+    "id": 3,
+    "tipo": "servico",
+    "titulo": "Costura de ajuste para cosplays",
+    "descricao": "Ajuste de barra, cintura e recostura de detalhes. Atendimento em SP capital e ABC.",
+    "preco": "A partir de R$ 60",
+    "cidade": "Santo André (SP)",
+    "contato": "@atelier.pixelthread",
+    "data": "2025-03-02",
+    "imagem": "https://source.unsplash.com/900x650/?sewing,cosplay",
+    "tags": ["costura", "ajuste", "serviço"]
+  },
+  {
+    "id": 4,
+    "tipo": "venda",
+    "titulo": "Varinha com LED para personagens mágicos",
+    "descricao": "Varinha leve com iluminação em LED azul, ideal para fotos noturnas e palco.",
+    "preco": "R$ 120",
+    "cidade": "Online",
+    "contato": "@props.arcana",
+    "data": "2025-03-15",
+    "imagem": "https://source.unsplash.com/900x650/?magic,wizard,prop",
+    "tags": ["prop", "acessório", "led"]
+  },
+  {
+    "id": 5,
+    "tipo": "servico",
+    "titulo": "Fotógrafo para ensaios cosplay",
+    "descricao": "Pacote com 15 fotos tratadas, opção de estúdio ou externa. Desconto para grupos.",
+    "preco": "A partir de R$ 250",
+    "cidade": "Rio de Janeiro (RJ)",
+    "contato": "@lens.otaku",
+    "data": "2025-03-05",
+    "imagem": "https://source.unsplash.com/900x650/?cosplay,photography",
+    "tags": ["foto", "ensaio", "serviço"]
+  }
+]
